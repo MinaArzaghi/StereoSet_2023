@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir pretrained_models
 wget -P pretrained_models http://moinnadeem.com/stereoset/pretrained_models/GPT2Model_gpt2_0.0005.pth
 wget -P pretrained_models http://moinnadeem.com/stereoset/pretrained_models/GPT2Model_gpt2-medium_0.0005.pth
